@@ -6,9 +6,10 @@ color:
   saturation: 0.2812510896474123
   rhythmicContrast: 0.09483474912121892
   brandColors:
-    - '#DC3522'
-    - '#D9CB9E'
-    - '#374140'
-    - '#2A2C2B'
-    - '#1E1E20'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: valet
+title: valet.io
