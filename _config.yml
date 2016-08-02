@@ -1,4 +1,3 @@
-layout_spectrum: 0.07054989133030176
 typography_spectrum: 0.0814104569144547
 color:
   brandStrength: 0.7631010215263814
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.07054989133030176
 name: valet
 title: valet.io
+description: Management. Support. Peace of mind.
