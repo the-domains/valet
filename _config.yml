@@ -1,0 +1,14 @@
+layout_spectrum: 0.07054989133030176
+typography_spectrum: 0.0814104569144547
+color:
+  brandStrength: 0.7631010215263814
+  lightness: 0.571886642370373
+  saturation: 0.2812510896474123
+  rhythmicContrast: 0.09483474912121892
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+name: valet
